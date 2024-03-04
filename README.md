@@ -4,6 +4,9 @@ This project aims to predict solubility using linear regression and random fores
 
 ![Plots](https://github.com/mashhoorahdal/solubility-predictor/assets/101206478/a3234a22-5274-4a69-8d5c-85974a934362)
 
+## Google Colab
+
+You can run this project in Google Colab. Click [here](https://colab.research.google.com/drive/1QspJHQreofZltlygzGVmRFWYS-P10k2m) to open the notebook in Colab.
 
 ## Getting Started
 
