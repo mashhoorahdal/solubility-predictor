@@ -1,4 +1,4 @@
-# Solubility Prediction
+# Solubility Prediction 
 
 This project aims to predict solubility using linear regression and random forest algorithms.
 
@@ -7,14 +7,6 @@ This project aims to predict solubility using linear regression and random fores
 ## Google Colab
 
 You can run this project in Google Colab. Click [here](https://colab.research.google.com/drive/1QspJHQreofZltlygzGVmRFWYS-P10k2m) to open the notebook in Colab.
-
-## Getting Started
-
-To get started with this project, follow the instructions below.
-
-### Prerequisites
-
-Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
 ### Installation
 
