@@ -10,7 +10,7 @@ You can run this project in Google Colab. Click [here](https://colab.research.go
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository :
 ```git clone https://github.com/mashhoorahdal/solubility-predictor```
 2. Navigate to the project directory:
    ```cd solubility-predictor```
